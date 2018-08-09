@@ -9,11 +9,11 @@
 # [if without releases leave empty].
 # In case you're hosting on GitHub, change GITHUB variable to true, provide your
 # username on which the project is hosted (AUTHOR) and project theme name (THEME).
-THEME="test"
-AUTHOR=""
+THEME="themetheo"
+AUTHOR="theonoel"
 RELEASE=""
-GITURL="https://github.com/$AUTHOR/$THEME.git"
-RELEASEURL="https://github.com/$AUTHOR/$THEME/archive/$RELEASE/$THEME.tar"
+GITURL="https://github.com/theonoel/themetheo"
+RELEASEURL=""
 
 # Specify your theme's short and long description.
 DESC_SHORT=""
